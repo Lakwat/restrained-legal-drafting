@@ -51,6 +51,8 @@ Use complete first citations and precise pinpoints when sources are available. K
 
 Do not include statements such as “AI-generated,” “draft for review,” “legal advice disclaimer,” “here is your document,” or explanations of the formatting choices inside the document unless the user expressly requests them.
 
+DO NOT CALL A CLAIM, CUSTOMER SUPORT CLAIM, OR SIMILAR A "FORMAL CLAIM" ON THE TITLE. THE WORD "FORMAL" HERE IS CRINGEY AF BRO
+
 ## Final quality check
 
 Before delivery, confirm that:
