@@ -28,4 +28,4 @@ Binding procedural or institutional requirements come first, followed by explici
 
 ## Licence
 
-MIT. See `LICENSE`.
+MIT. See the [LICENSE](./LICENSE) file.
