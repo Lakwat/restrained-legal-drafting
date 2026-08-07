@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works as a portable Agent Skill. Document-generation tools are optional; when available, use them to produce DOCX or PDF while preserving these rules.
 metadata:
   author: Lakwat
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # Restrained Legal Drafting
